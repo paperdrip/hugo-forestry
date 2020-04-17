@@ -35,7 +35,7 @@ fields:
     required: true
   default: https://snipcart-hugo-forestry.netlify.com
 pages:
-- content/products/blue-cheese.md
 - content/products/eg-adult-mask.md
+- content/products/joseristine-adult-mask.md
 - content/products/medicom-child-mask.md
 - content/products/medicom-comfort-mask.md
