@@ -4,7 +4,8 @@ metadata:
   name: frontend
 spec:
   rules:
-  - host: maskcity.5c3b394c-9640-4184-9552-7dc37382a0ca.nodes.k8s.fr-par.scw.cloud
+#  - host: maskcity.5c3b394c-9640-4184-9552-7dc37382a0ca.nodes.k8s.fr-par.scw.cloud
+  - host: maskcity.15019872-f746-4dd2-ba25-d4517dbf9d70.nodes.k8s.fr-par.scw.cloud
     http:
       paths:
       - path: /
